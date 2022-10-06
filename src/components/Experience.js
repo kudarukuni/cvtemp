@@ -5,6 +5,14 @@ const Experience = () => {
 
             <ul>
                 <li>
+                    <i>Visitation Makumbi High School</i>, 2014-2018
+                    <ul>
+                        <li>Graduated with 8 O'Level Passes</li>
+                        <li>Graduated with 1 HEXCO Computer Operations & Pacakage Passes</li>
+                        <li>Graduated with 3 A'Level Passes</li>
+                    </ul>
+                </li>
+                <li>
                     <i>Catholic University of Zimbabwe</i>, 2014-2018
                     <ul>
                         <li>Graduated with 2.1 (Upper Second Class)</li>
@@ -17,6 +25,13 @@ const Experience = () => {
                         <li>Assisted Research &amp; Development on Web3 Products</li>
                     </ul>
                 </li>
+                <li>
+                    <i>Shungu DzeVana Childrens Home</i> - <strong>Voluntary</strong>, August 2019 - December 2019
+                    <ul>
+                        <li>Tutoring Opharns</li>
+                        <li>Assisted Research &amp; Development on Institutional IoT Security Products for Opharns</li>
+                    </ul>
+                </li>                
                 <li>
                     <i>Netcast System</i> - <strong>Senior Software Engineer or Full Stack Developer</strong>, 2021-2022
                     <ul>
