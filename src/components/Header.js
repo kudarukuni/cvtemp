@@ -8,8 +8,8 @@ const Header = () => {
 
             <div className='header__content'>
                 <h1>Hi, I am Kudakwashe William Rukuni</h1>
-                <p>Full Stack Web3 Developer</p><br>
-                <a href="https://contactkuda-kudarukuni.vercel.app" className="button" target="_blank">Get In Touch</a><br>
+                <p>Full Stack Web3 Developer</p><br/>
+                <a href="https://contactkuda-kudarukuni.vercel.app" className="button" target="_blank">Get In Touch</a><br/>
                 <a href="https://kudarukuni-kudarukuni.vercel.app" className="button" target="_blank">Desktop Site</a>
             </div>
         </section>
