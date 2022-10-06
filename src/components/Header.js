@@ -7,9 +7,10 @@ const Header = () => {
             <img src={profile} alt="Kudakwashe William Rukuni" />
 
             <div className='header__content'>
-                <h1>Hi, I'm Kudakwashe William Rukuni</h1>
-                <p>Full Stack Web3 Developer</p>
-                <a href="https://contactkuda-kudarukuni.vercel.app" className="button" target="_blank">Get In Touch</a>
+                <h1>Hi, I am Kudakwashe William Rukuni</h1>
+                <p>Full Stack Web3 Developer</p><br>
+                <a href="https://contactkuda-kudarukuni.vercel.app" className="button" target="_blank">Get In Touch</a><br>
+                <a href="https://kudarukuni-kudarukuni.vercel.app" className="button" target="_blank">Desktop Site</a>
             </div>
         </section>
     );
