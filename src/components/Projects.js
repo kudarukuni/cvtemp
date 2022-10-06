@@ -11,7 +11,7 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <h3>D.A.T.S</h3>
+                    <h3><b>D.A.T.S</b></h3>
                     <img src={uniswap} alt="DATS" />
                     <p>The Web3.0 Decentralized Autonomous Tender System</p>
 
@@ -20,7 +20,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>B.E.V.R</h3>
+                    <h3><b>B.E.V.R</b></h3>
                     <img src={compound} alt="BEVR" />
                     <p>The Web3.0 Blockchain Election Voters Roll System</p>
 
@@ -29,7 +29,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>B.P.N</h3>
+                    <h3><b>B.P.N</b></h3>
                     <img src={aave} alt="BPN" />
                     <p>The Web3.0 Bat-Pack Non-Fungible Token System</p>
 
