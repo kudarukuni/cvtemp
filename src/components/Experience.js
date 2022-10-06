@@ -5,7 +5,7 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Visitation Makumbi High School</i>, 2014-2018
+                    <i>Visitation Makumbi High School</i> - <strong>O'Level & A'Level</strong>, 2014-2018
                     <ul>
                         <li>Graduated with 8 O'Level Passes</li>
                         <li>Graduated with 1 HEXCO Computer Operations & Pacakage Passes</li>
@@ -13,7 +13,7 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
-                    <i>Catholic University of Zimbabwe</i>, 2014-2018
+                    <i>Catholic University of Zimbabwe</i> <strong>Under Graduate Study</strong>, 2014-2018
                     <ul>
                         <li>Graduated with 2.1 (Upper Second Class)</li>
                     </ul>
@@ -31,10 +31,18 @@ const Experience = () => {
                         <li>Tutoring Opharns</li>
                         <li>Assisted Research &amp; Development on Institutional IoT Security Products for Opharns</li>
                     </ul>
-                </li>                
+                </li>
                 <li>
-                    <i>Netcast System</i> - <strong>Senior Software Engineer or Full Stack Developer</strong>, 2021-2022
+                    <i>Mangwana Private Limited</i> - <strong>Post Graduate Study</strong>, January 2020 - December 2020
                     <ul>
+                        <li>Blockchain Development and Smart Contract Writting</li>
+                        <li>Assisted Research and Development on Web3.0 Use Cases On the Ethereum &amp; Solana EcoSystem</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>Netcast System</i> - <strong>Tender Contractor</strong>, June 2021 - today
+                    <ul>
+                        <li>Senior Software Engineer or Full Stack Developer</li>
                         <li>Contributed to Smart Boardroom Solutions using Internet of Things.</li>
                         <li>Cisco Systems Installation &amp; Digital Signage</li>
                     </ul>
