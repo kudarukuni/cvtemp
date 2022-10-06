@@ -6,8 +6,8 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Patient-focused and empathic freelance developer with
-                6 years of experience in Java, PHP, React, HTML,
+                Welcome to my 2D Online Curicullum Vitae, I'm Kuda a patient-focused 
+                and empathic Software Engineer with 6 years of experience in Java, PHP, React, HTML,
                 CSS, Android Studio, C++ and JavaScript. A dynamic, innovative 
                 and results-driven individual with a great passion for success. Can
                 work under minimum supervision
